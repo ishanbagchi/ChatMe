@@ -178,6 +178,10 @@ a {
 	width: 100%;
 }
 
+.las {
+	font-size: 150%
+}
+
 @media (max-width: 700px) {
 	.chat-main {
 		display: block;
